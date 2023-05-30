@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yomidep
+- 👋 Hi, I’m @arkade
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning python programming
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m a Web3 Developer
+- 💞️ I’m looking to collaborate on Web3 Projects
 - 📫 How to reach me via my email noabiliaminfirst@gmail.com
 
 <!---
