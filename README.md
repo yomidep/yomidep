@@ -1,6 +1,6 @@
 ## I'm arkade
 
-## have no words for this place, check out my repos and porfolio
+## have no words for this place, check out my repos and [portfolio](arkade.lol)
 
 <!---
 yomidep/yomidep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
